@@ -1,0 +1,26 @@
+[
+  {
+    "resource": "dhiraj-nsg",
+    "type": "NSG",
+    "issue": "Rule 'AllowAllInbound' allows inbound from 0.0.0.0/0",
+    "severity": "High"
+  },
+  {
+    "resource": "ameyrjadhav036_gmail.com#EXT#@ameyrjadhav036gmail.onmicrosoft.com",
+    "type": "User",
+    "issue": "MFA not enabled",
+    "severity": "High"
+  },
+  {
+    "resource": "dhirajshinde@ameyrjadhav036gmail.onmicrosoft.com",
+    "type": "User",
+    "issue": "MFA not enabled",
+    "severity": "High"
+  },
+  {
+    "resource": "dhiraj29112000",
+    "type": "StorageAccount",
+    "issue": "No issue found",
+    "severity": "Low"
+  }
+]
